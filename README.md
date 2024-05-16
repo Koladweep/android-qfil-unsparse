@@ -1,3 +1,10 @@
+# Information regarding Python version needed
+This library was built using Python 2.x .
+For this particular branch to work, you need python 2.x installed. Kindly follow this post (https://stackoverflow.com/a/62037932/23378869) to create a python 2.7.18 virtual environment and install this library in the virtual environment if you wish not to disturb your existing python 3.x environment.
+
+ Migration to python 3.xx is a good a good idea and will be considered in absence of other alternatives.
+
+# **Usage**
 # android-qfil-unsparse
 Tool to reassemble the sparse images used by Qualcomm Flash Image Loader
 
